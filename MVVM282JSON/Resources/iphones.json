@@ -5,4 +5,62 @@
 //  Created by CHIEN on 28/2/26.
 //
 
-import Foundation
+
+[
+  {
+      // key: value,
+         
+    "id": 1,
+    "name": "iPhone 16 Pro Max",
+    "tagline": "Titanium. So strong. So light.",
+    "chip": "A18 Pro",
+    "storage": ["256GB", "512GB", "1TB"],
+    "price": 34990000,
+    "series": "Pro"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 16 Pro",
+    "tagline": "The power of Pro in your hand.",
+    "chip": "A18 Pro",
+    "storage": ["128GB", "256GB", "512GB", "1TB"],
+    "price": 28990000,
+    "series": "Pro"
+  },
+  {
+    "id": 3,
+    "name": "iPhone 16 Plus",
+    "tagline": "More. Powerfully.",
+    "chip": "A18",
+    "storage": ["128GB", "256GB", "512GB"],
+    "price": 24990000,
+    "series": "Standard"
+  },
+  {
+    "id": 4,
+    "name": "iPhone 16",
+    "tagline": "A total redesign.",
+    "chip": "A18",
+    "storage": ["128GB", "256GB", "512GB"],
+    "price": 22990000,
+    "series": "Standard"
+  },
+  {
+    "id": 5,
+    "name": "iPhone 15 Pro Max",
+    "tagline": "Forged in titanium.",
+    "chip": "A17 Pro",
+    "storage": ["256GB", "512GB", "1TB"],
+    "price": 29990000,
+    "series": "Pro"
+  },
+  {
+    "id": 6,
+    "name": "iPhone SE",
+    "tagline": "Powerful. In every way.",
+    "chip": "A15",
+    "storage": ["64GB", "128GB", "256GB"],
+    "price": 11990000,
+    "series": "SE"
+  }
+]
